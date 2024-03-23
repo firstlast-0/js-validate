@@ -1,5 +1,5 @@
 {
-  "name": "project",
+  "name": "js-validate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,9 +16,6 @@
     "style-loader": "^3.3.4",
     "webpack": "^5.90.3",
     "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^5.0.2",
-    "eslint": "^8.57.0",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-import": "^2.29.1"
+    "webpack-dev-server": "^5.0.2"    
   }
 }

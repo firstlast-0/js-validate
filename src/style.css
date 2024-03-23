@@ -6,3 +6,20 @@ body {
     font-family: 'Courier New', monospace;    
     text-align: center;
 }
+
+#main {
+    margin-top: 100px;
+}
+
+input:invalid {
+    border: 2px dashed red;
+}
+
+span {
+    display: block;
+    color: red;
+}
+
+#result {
+    font-size: 1.3rem;
+}
